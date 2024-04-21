@@ -1,1 +1,2 @@
-# nodejs-reactjs-jwt-thunk
+server node --watch server.js   
+client npm run dev
