@@ -1,0 +1,2 @@
+
+// export { regexEmail, regexPhoneNumberVN, regexName }
